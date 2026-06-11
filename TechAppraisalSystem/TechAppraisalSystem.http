@@ -1,0 +1,6 @@
+@TechAppraisalSystem_HostAddress = http://localhost:5270
+
+GET {{TechAppraisalSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
